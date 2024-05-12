@@ -4,6 +4,7 @@ import UseMemoEx1 from './UseMemoEx1'
 import UseMemoEx2 from './UseMemoEx2'
 import UseCallbackEx from './UseCallbackEx'
 import UseRefEx from './UseRefEx'
+import ToggleExample from './ToggleExample'
 
 function App() {
    // return <UseStateEx />
@@ -11,7 +12,8 @@ function App() {
    // return <UseMemoEx1 />
    //  return <UseMemoEx2 />
    // return <UseCallbackEx />
-   return <UseRefEx />
+   // return <UseRefEx />
+   return <ToggleExample />
 }
 
 export default App
