@@ -8,8 +8,8 @@ function App() {
    // const name = 'react'
    // return <div className="react">{name}</div>
    // return (
-   //    <MyComponent name="React" forNumber={1}>
-   //       자식속성
+   //    <MyComponent name="하서" job="강사" forNumber={1}>
+   //       맑음
    //    </MyComponent>
    // )
 
